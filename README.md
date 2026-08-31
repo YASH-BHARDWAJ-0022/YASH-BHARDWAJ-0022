@@ -12,11 +12,11 @@
 
 ---
 
-### 🚀 Engineering Focus & Background
-- 🔭 **Currently Building:** Enterprise-grade AI applications and robust automation workflows at **Navik Labs**.
-- 🧠 **Engineering Philosophy:** I specialize in integrating LLMs into real-world products, prioritizing sub-second latency, secure REST API design, and highly observable backend architectures.
-- ⚡ **Current Exploration:** Multi-agent autonomous systems, RAG optimizations, and scaling production voice AI.
-- 🎓 **Credentials:** Oracle Generative AI Certified (2025) | B.Tech CS at IMS Engineering College.
+###  Engineering Focus & Background
+-  **Currently Building:** Enterprise-grade AI applications and robust automation workflows at **Navik Labs**.
+-  **Engineering Philosophy:** I specialize in integrating LLMs into real-world products, prioritizing sub-second latency, secure REST API design, and highly observable backend architectures.
+-  **Current Exploration:** Multi-agent autonomous systems, RAG optimizations, and scaling production voice AI.
+-  **Credentials:** Oracle Generative AI Certified (2025) | B.Tech CS at IMS Engineering College.
 
 ---
 
